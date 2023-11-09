@@ -1,6 +1,7 @@
 # FETP-Bhavana
 ## Description 
 This repository contains my progress for the FETP task.
+
 In Phase 1, I created a Flask application for local authentication with Gmail, displaying user information and the current Indian time.
 
 ## Progress Update
