@@ -18,7 +18,7 @@ def generate_pattern(text):
 
 @app.route('/')
 def home():
-    authenticated = True  # Replace this with your authentication logic
+    authenticated = True  
     return render_template('index.html', authenticated=authenticated)
 
 @app.route('/display', methods=['POST'])
