@@ -19,6 +19,7 @@ In Phase 1, I created a Flask application for local authentication with Gmail, d
   - Implemented logic to generate a pattern based on the number of lines input.
   - Treated Phase 2 as a separate task. In future updates will integrate this with successful authentication.
     Screenshots : https://drive.google.com/file/d/19Uz2DAq_VBBz2KFgtHsfXDIkxCuEuYix/view?usp=sharing
+    
 
 
 
